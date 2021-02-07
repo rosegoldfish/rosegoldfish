@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello! 👋<br>
+My name is Michelle and I am a <i>Code Newbie</i>! 🌱 <br>
+I am currently learning the curriculum from <b>Free Code Camp</b> and <b>The Odin Project</b>.<br>
+<b>Follow me on my ✨ journey ✨ </b>
 
 <!--
 **rosegoldfish/rosegoldfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
